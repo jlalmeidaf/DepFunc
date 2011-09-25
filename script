@@ -1,0 +1,27 @@
+Sujeito entra no restaurante
+Sujeito olha a mesa
+Sujeito pensa onde sentar
+Sujeito vai para a mesa
+Sujeito sentar
+Se o cardapio nao estiver na mesa
+	Sujeito pede o cardapio ao Garçom
+Sujeito escolhe uma comida F na lista de comidas
+Sujeito acena para o Garçom
+Garçom vai até a mesa
+Sujeito fala que quer a comida F para o Garçom
+Garçom vai até o Cozinheiro
+Garçom fala para o Cozinheiro qual a comida que Sujeito quer
+Se F nao tiver
+	....
+Senao
+	Cozinheiro faz a comida
+	Cozinheiro entrega ao Garçom F
+	Garçom leva até a mesa
+	Sujeito come
+	Sujeito vai até o balcao
+	Sujeito paga
+	Sujeito vai embora
+
+
+
+	
