@@ -1,0 +1,7 @@
+1) Pensei montar um cenário onde todo mundo vai seguir esse cenário com pequenas modificações entre cada agente, tipo caracteristicas fisicas, psicologicas, e montar uma arvore.
+2) a arvore sabe qual é o proximo passo
+3) a gente pode oferecer mais opçoes com o proximo passo
+----------------------------
+1) montar uma arvore com a dependencia conceitual e tentar identificar o proximo conceito e oferecer alguma coisa a partir dai
+-----------------------------
+o do marcelo nao usa nada de dependencia conceitual acho que nao da pra aproveitar e tambem nao entendi muito bem o codigo
